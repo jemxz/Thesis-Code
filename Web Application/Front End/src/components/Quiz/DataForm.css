@@ -1,0 +1,20 @@
+/* DataForm.css */
+
+/* Hover effect for list items */
+.list-group-item:hover {
+    background-color: #f8f9fa;
+    cursor: default;
+  }
+  
+  /* Adjust chart titles */
+  .card-body h5 {
+    margin-bottom: 15px;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .card-body {
+      padding: 1rem;
+    }
+  }
+  
